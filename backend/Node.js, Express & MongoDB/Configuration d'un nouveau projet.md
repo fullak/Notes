@@ -1,4 +1,4 @@
-# Node.js, Express & MongoDB
+# Configuration d'un nouveau projet
 
 ## Installer Angular : 
 ```
